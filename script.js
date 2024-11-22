@@ -188,5 +188,32 @@
 // console.log(res);
 
 
+//7-masala
+// let text = "hello world";
+// let res = text.length
+// console.log(res);
+
+
+//8-masala
+// let text = "hello world";
+
+// function deleted(a) {
+//     let sum = '';
+//     for (let i = 0; i < text.length; i++) {
+//         if (text[i] == 'a' || text[i] == 'e' || text[i] == 'i' || text[i] == 'o' || text[i] == 'u') {
+//             continue; 
+//         }
+//         sum += text[i]; 
+//     }
+//     return sum;  
+// }
+
+// let res = deleted(text);
+// console.log(res);  
+
+
+
+
+
 
 
